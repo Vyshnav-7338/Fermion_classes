@@ -1906,3 +1906,8 @@ body {
     width: 95%;
   }
 }
+@media screen and (max-width: 768px) {
+  header .header-area img {
+    display: none;
+  }
+}
